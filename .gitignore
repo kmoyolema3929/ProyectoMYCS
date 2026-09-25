@@ -1,0 +1,29 @@
+# ==== Node.js ====
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# ==== Python ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+build/
+dist/
+
+# ==== Java ====
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# ==== General ====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
