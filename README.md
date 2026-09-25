@@ -20,8 +20,8 @@ El trabajo consiste en desarrollar un sitio web básico y aplicar buenas prácti
 - `CONTRIBUTING.md` → reglas de colaboración del grupo.
 
 ## 👥 Colaboradores
-- Líderes: Katherine y [Nombre del segundo líder]  
-- Integrantes: [Lista de compañeros]
+- Líderes: Katherine Moyolema y Alisson Paredes  
+- Integrantes: Anahi Molina, Mateo Herrera, Julio Zurita, Alina Ortiz
 
 ## 🛠️ Tecnologías
 - HTML, CSS, JavaScript (Bootstrap opcional).
@@ -29,4 +29,3 @@ El trabajo consiste en desarrollar un sitio web básico y aplicar buenas prácti
 
 ## 📸 Evidencias
 Se incluirán capturas de commits, ramas y Pull Requests como parte del informe.
-
